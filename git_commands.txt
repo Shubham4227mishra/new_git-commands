@@ -21,4 +21,4 @@ git checkout test
 create pull request in github and then merge
 now to add merged codes in local
 just run git pull origin nodename where changes are merged and code will be on local
-git dev
+git test
