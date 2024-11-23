@@ -1,0 +1,24 @@
+git init
+git config -global user.name "shubham"
+git config --global user.email "shubhammishra4227@gmail.com"
+git add
+git status
+git rm --cached file.sh
+git commit -m "message"
+git remote add origin https:
+git remote set-url origin https:pattoekn@github/reponame
+git remote -v
+git log
+git diff
+git show commitid
+git pull origin nodename
+git push origin nodename
+git clone reposiory url
+git checkout -b dev
+git switch master
+git checkout test
+## to merge code from different branches 
+create pull request in github and then merge
+now to add merged codes in local
+just run git pull origin nodename where changes are merged and code will be on local
+
